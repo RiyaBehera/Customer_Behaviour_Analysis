@@ -28,9 +28,9 @@ This project performs end-to-end analysis of customer shopping data to answer ke
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?logo=pandas)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?logo=pandas)
 
 ---
 
@@ -94,7 +94,7 @@ An interactive dashboard was built with the following KPIs and visuals:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/customer-shopping-behavior.git
+git clone https://github.com/RiyaBehera/customer-shopping-behavior.git
 cd customer-shopping-behavior
 
 # Install dependencies
